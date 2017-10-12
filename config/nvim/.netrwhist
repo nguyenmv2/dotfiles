@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/mynguyen/workspace/Forks/thrillshare'
+let g:netrw_dirhist_2='/Users/mynguyen/workspace/Forks/thrillshare/alerts/spec/models'
+let g:netrw_dirhist_3='/Users/mynguyen/workspace/Forks/thrillshare/alerts/spec'
+let g:netrw_dirhist_4='/Users/mynguyen/workspace/Forks/thrillshare/alerts/spec/factories'
+let g:netrw_dirhist_5='/Users/mynguyen/workspace/Forks/thrillshare'
+let g:netrw_dirhist_6='/Users/mynguyen/workspace/Forks'
+let g:netrw_dirhist_7='/Users/mynguyen/workspace'
+let g:netrw_dirhist_8='/Users/mynguyen/workspace/Forks/thrillshare/app/views/live_feeds'
+let g:netrw_dirhist_9='/Users/mynguyen/workspace/Forks/thrillshare/app/views'

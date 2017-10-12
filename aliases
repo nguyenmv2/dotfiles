@@ -1,0 +1,22 @@
+# Unix
+alias ll="ls -al"
+alias ln="ln -v"
+alias mkdir="mkdir -p"
+alias e="$EDITOR"
+alias v="nvim"
+alias gitsh="gitsh --git=$(which hub)"
+# Bundler
+alias b="bundle"
+
+# Pretty print the path
+alias path='echo $PATH | tr -s ":" "\n"'
+
+# Quick navigation to working projects
+alias thrillshare='cd ~/workspace/Forks/thrillshare'
+alias rooms='cd ~/workspace/Forks/rooms'
+
+alias supersh="ssh -i ~/.ssh/apptegy_key.pem"
+alias mux='tmuxinator'
+alias evalSSH="eval '$(ssh-agent -s)'; ssh-add ~/.ssh/id_rsa"
+# Include custom aliases
+[[ -f ~/.aliases.local ]] && source ~/.aliases.local
